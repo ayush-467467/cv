@@ -1,0 +1,1 @@
+alert("This page is completly built on HTML & CSS \nThis popup is the only javascript");
